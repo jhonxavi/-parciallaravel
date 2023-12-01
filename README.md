@@ -1,0 +1,2 @@
+# -parciallaravel
+parcial
